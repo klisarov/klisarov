@@ -5,7 +5,7 @@
   <p>I ❤️ working with Front-End technologies</p>
   <p>Currently participating @ <b>Brainster Full-Stack Academy</b></p>
   <hr>
-  <h2>My experience:</h2>
+  <h2>My Stack:</h2>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="130" height="130">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" width="130" height="160">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="250" height="130">
