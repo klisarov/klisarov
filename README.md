@@ -5,12 +5,12 @@
   <p>I ❤️ working with Front-End technologies</p>
   <p>Currently participating @ <b>Brainster Full-Stack Academy</b></p>
   <h2>I have experience with the following:</h2>
-  <ul>
-    <li>HTML/CSS</li>
-    <li>SQL</li>
-    <li>PHP</li>
-    <li>JavaScript</li>
-    <li>Laravel</li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="130" height="130">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" width="130" height="160">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="250" height="130">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="200" height="130">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="130" height="130"> 
+    <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" width="130" height="130">
   </ul>
   <h2>Check out my projects below, see you around :)</h2>
 </div>
