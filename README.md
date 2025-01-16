@@ -12,5 +12,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="130" height="130"> 
     <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" width="130" height="130">
   </ul>
-  <h2>Check out my projects below, see you around :)</h2>
+  <p>You can check out all of my projects below :)</p>
 </div>
