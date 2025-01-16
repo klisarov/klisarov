@@ -4,6 +4,7 @@
   <h2>Welcome to my GitHub page!</h2>
   <p>I ❤️ working with Front-End technologies</p>
   <p>Currently participating @ <b>Brainster Full-Stack Academy</b></p>
+  <hr>
   <h2>I have experience with the following:</h2>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="130" height="130">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" width="130" height="160">
