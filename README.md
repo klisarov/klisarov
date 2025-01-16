@@ -13,4 +13,5 @@
     <li>JavaScript</li>
     <li>Laravel</li>
   </ul>
+  <h2>Check out my projects below! :-)</h2>
 </div>
