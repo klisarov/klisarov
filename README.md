@@ -1,6 +1,6 @@
 <div class="header" align="center">
   <img src="https://i.imgur.com/e79NBjs.png" width="130" height="130"><br>
-    <a href="https://www.linkedin.com/in/klisarovl/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/lukakl/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <h2>Welcome to my GitHub page!</h2>
   <p>Alumni @ Brainster Full-Stack Academy</p>
   <hr>
