@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/lukakl/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <h2>Welcome to my GitHub page!</h2>
   <p>Student at Brainster Next College | Sofware Engineering, Innovations & AI</p>
-  <p>Alumni @ Brainster Web Development Academy</p>
+  <p>Alumni at the Brainster Web Development Academy</p>
   <hr>
   <p>You can check out all of my projects below :)</p>
 </div>
