@@ -5,5 +5,5 @@
   <p>Student at Brainster Next College | Sofware Engineering, Innovations & AI</p>
   <p>Alumni at the Brainster Full-Stack Web Development Academy</p>
   <hr>
-  <p>You can check out all of my projects below :)</p>
+  <p>You can check out all of my projects below!</p>
 </div>
